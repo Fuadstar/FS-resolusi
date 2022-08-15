@@ -1,6 +1,8 @@
 RENCANA FM
 
 - Javascrip
+  * ES6
+  * Freamwork Js
 - PHP
 - Interview
 - sass
